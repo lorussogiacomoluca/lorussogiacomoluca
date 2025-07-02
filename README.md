@@ -13,10 +13,11 @@ I have decided to pursue a career in **computer science** to follow my great pas
 
 ## 🌱 What I’m Learning  
 I'm currently diving deep into **Full Stack Web Development**, focusing on:  
-- JavaScript, HTML, CSS, Tailwind  
-- React.js, Next.js  
+- JavaScript, HTML, CSS
+- Bootstrap  
+- VITE, React  
 - Node.js, Express.js  
-- API development  
+- API-REST development  
 
 ## 💻 Let's Connect  
 I’m always open to collaborations and networking. Feel free to reach out!  
