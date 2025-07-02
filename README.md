@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gianluca Lorusso  
+# 👋 Hi, I’m Giacomo Luca Lorusso  
 
 ## 👀 About Me  
 I’m a passionate **Full Stack Web Developer** currently studying at [Boolean Careers](https://boolean.careers/).  
